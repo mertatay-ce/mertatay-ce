@@ -10,6 +10,7 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 <p align="left">
 <a href="https://linkedin.com/in/mert-atay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+![Beni ne kadar ziyaret etmişssin?](https://github-readme-stats.vercel.app/api?username=mertatay-ce&show_icons=true&theme=gradient) 
 <details>
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
