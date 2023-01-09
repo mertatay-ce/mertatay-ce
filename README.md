@@ -36,8 +36,8 @@ Merhaba, ben Mert. Ben 22 yaşındayım. Kocaeli'de yaşıyorum. İzmitliyim. Ş
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Blog</b></summary>
- 
- • Yazılım Serüveni 5N1K: JWT -> <a href="https://medium.com/@mertatay/yazılım-serüveni-5n1k-jwt-4541fa51e254" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="green" class="bi bi-medium" viewBox="0 0 16 16"> <path d="M9.025 8c0 2.485-2.02 4.5-4.513 4.5A4.506 4.506 0 0 1 0 8c0-2.486 2.02-4.5 4.512-4.5A4.506 4.506 0 0 1 9.025 8zm4.95 0c0 2.34-1.01 4.236-2.256 4.236-1.246 0-2.256-1.897-2.256-4.236 0-2.34 1.01-4.236 2.256-4.236 1.246 0 2.256 1.897 2.256 4.236zM16 8c0 2.096-.355 3.795-.794 3.795-.438 0-.793-1.7-.793-3.795 0-2.096.355-3.795.794-3.795.438 0 .793 1.699.793 3.795z"/> </svg> </a> 
+  <br/>
+ • Yazılım Serüveni 5N1K: JWT -> <a href="https://medium.com/@mertatay/yazılım-serüveni-5n1k-jwt-4541fa51e254" target="_blank">  <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="yazılım-serüveni-5n1k-jwt" width="40" height="40"/></a> 
 
 </details>
 
