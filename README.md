@@ -35,9 +35,9 @@ Merhaba, ben Mert. Ben 22 yaşındayım. Kocaeli'de yaşıyorum. İzmitliyim. Ş
 </details>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Blog</b></summary>
+  <summary><b>📃&nbsp;&nbsp;Blog</b></summary>
   <br/>
- • Yazılım Serüveni 5N1K: JWT -> <a href="https://medium.com/@mertatay/yazılım-serüveni-5n1k-jwt-4541fa51e254" target="_blank"> ... </a> 
+ • Yazılım Serüveni 5N1K: JWT -> <a href="https://medium.com/@mertatay/yazılım-serüveni-5n1k-jwt-4541fa51e254" target="_blank"> ➡️ </a> 
 
 </details>
 
