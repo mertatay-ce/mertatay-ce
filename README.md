@@ -3,7 +3,7 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 
 - 🌱 &nbsp;Şu an kendimi Android ve Kotlin üzerinde geliştiriyorum.
 - 💬 &nbsp;Bana Python/Android/3rd party kütüphaneler ile ilgili herhangi bir şey sorabilirsin.
-- 📫 &nbsp;Bana nasıl ulaşırsın: [Linkedin](https://www.linkedin.com/in/mert-atay/)
+- 📫 &nbsp;Bana nasıl ulaşırsın: [Gmail](ce.mertatay@gmail.com)
 - ⚡ &nbsp;Eğlenceli biriyim.:dog:leri ve 🎮 ları severim.
 
 🔗 &nbsp;**Bağlantı kurmak istersen**
