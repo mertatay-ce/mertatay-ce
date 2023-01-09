@@ -9,7 +9,10 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 🔗 &nbsp;**Bağlantı kurmak istersen**
 <p align="left">
 <a href="https://linkedin.com/in/mert-atay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertatay" height="30" width="40" /></a>
-
+ •
+<img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> 
+  
 ![Beni ne kadar ziyaret etmişssin?](https://github-readme-stats.vercel.app/api?username=mertatay-ce&show_icons=true&theme=radical) 
 <details>
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
