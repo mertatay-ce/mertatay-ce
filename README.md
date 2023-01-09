@@ -8,9 +8,9 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 
 🔗 &nbsp;**Bağlantı kurmak istersen**
 <p align="left">
-<a href="https://linkedin.com/in/mert-atay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mert-atay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertatay" height="30" width="40" /></a>
 
-![Beni ne kadar ziyaret etmişssin?](https://github-readme-stats.vercel.app/api?username=mertatay-ce&show_icons=true&theme=gradient) 
+![Beni ne kadar ziyaret etmişssin?](https://github-readme-stats.vercel.app/api?username=mertatay-ce&show_icons=true&theme=radical) 
 <details>
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
