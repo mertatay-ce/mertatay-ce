@@ -3,7 +3,7 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 
 - 🌱 &nbsp;Şu an kendimi Android ve Kotlin üzerinde geliştiriyorum.
 - 💬 &nbsp;Bana Python/Android/3rd party kütüphaneler ile ilgili herhangi bir şey sorabilirsin.
-- 📫 &nbsp;Bana nasıl ulaşırsın: ![ce.mertatay@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=green&link=https://mertatay.medium.com)](https://mertatay.medium.com) 
+- 📫 &nbsp;Bana nasıl ulaşırsın: [ce.mertatay@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=green&link=https://mertatay.medium.com)](https://mertatay.medium.com) 
 - ⚡ &nbsp;Eğlenceli biriyim.:dog:leri ve 🎮 ları severim.
 
 🔗 &nbsp;**Bağlantı kurmak istersen**
