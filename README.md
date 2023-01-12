@@ -13,7 +13,7 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 <img src="https://gpvc.arturio.dev/mertatay-ce" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=srnityndfaith&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/srnityndfaith?label=%40srnityndfaith&style=social"></a> 
   
-![Beni ne kadar ziyaret etmişssin?](https://github-readme-stats.vercel.app/api?username=mertatay-ce&show_icons=true&theme=radical) 
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertatay-ce&show_icons=true&theme=transparent)
 <details>
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
