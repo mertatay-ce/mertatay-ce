@@ -10,9 +10,6 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
 <p align="left">
 <a href="https://linkedin.com/in/mert-atay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertatay" height="30" width="40" /></a>
  •
-<img src="https://gpvc.arturio.dev/mertatay-ce" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=srnityndfaith&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/srnityndfaith?label=%40srnityndfaith&style=social"></a> 
-  
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
