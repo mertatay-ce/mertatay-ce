@@ -15,7 +15,7 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
 
-Merhaba, ben Mert. Ben 22 yaşındayım. Kocaeli'de yaşıyorum. İzmitliyim. Şu anda Kocaeli Üniversitesi Bilgisayar Mühendisliği mezunuyum. İlgi alanlarım mobil program geliştirme ve yapay zekadır. Python ile görüntü işleme ve derin öğrenme için yarışmalara ve projelere katıldım. Daha önce çalıştığım araştırma konularını ve teknolojileri sosyal platformlarda kısa yazılar ile paylaşarak kendimi geliştiriyorum.
+Merhaba, ben Mert. Ben 24 yaşındayım. Kocaeli'de yaşıyorum. İzmitliyim. Şu anda Kocaeli Üniversitesi Bilgisayar Mühendisliği mezunuyum. İlgi alanlarım mobil program geliştirme ve yapay zekadır. Python ile görüntü işleme ve derin öğrenme için yarışmalara ve projelere katıldım. Daha önce çalıştığım araştırma konularını ve teknolojileri sosyal platformlarda kısa yazılar ile paylaşarak kendimi geliştiriyorum.
 
 ### Ödüller ve Başarımlar
 - TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı Destek Kazananı 
