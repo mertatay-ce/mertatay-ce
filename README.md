@@ -1,8 +1,8 @@
 ### Herkese Merhaba <a href="https://github.com/mertatay-ce"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer :rofl:
+Burası, çeşitli açık kaynak geliştirme yaptığım ve kafamı kırdığım yer :rofl:
 
-- 🌱 &nbsp;Şu an kendimi Android ve Kotlin üzerinde geliştiriyorum.
-- 💬 &nbsp;Bana Python/Android/3rd party kütüphaneler ile ilgili herhangi bir şey sorabilirsin.
+- 🌱 &nbsp;Şu an kendimi .Net Core ve Flutter üzerinde geliştiriyorum.
+- 💬 &nbsp;Bana .Net Core ve Flutter 3rd party kütüphaneler ile ilgili herhangi bir şey sorabilirsin.
 - 📫 &nbsp;Bana nasıl ulaşırsın: [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=green&link=https://mertatay.medium.com)](https://mertatay.medium.com) &emsp; ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-quare&logo=gmail&logoColor=white)&emsp; : &emsp; [ce.mertatay@gmail.com]()
 - ⚡ &nbsp;Eğlenceli biriyim.:dog:leri ve 🎮 ları severim.
 
@@ -16,7 +16,7 @@ Burası, bir şeyleri açık kaynak yaptığım ve bir şeyleri kırdığım yer
   <br/>
 
 Merhaba, ben Mert. Ben 24 yaşındayım. Kocaeli'de yaşıyorum. İzmitliyim. Şu anda Kocaeli Üniversitesi Bilgisayar Mühendisliği mezunuyum. İlgi alanlarım mobil program geliştirme ve yapay zekadır. Python ile görüntü işleme ve derin öğrenme için yarışmalara ve projelere katıldım. Daha önce çalıştığım araştırma konularını ve teknolojileri sosyal platformlarda kısa yazılar ile paylaşarak kendimi geliştiriyorum.
-
+Şu an yazılım mühendisi olarak görev almaktayım. .NET Core ve Flutter üzerine geliştirme yapmaktayım.
 ### Ödüller ve Başarımlar
 - TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı Destek Kazananı 
 </details> 
