@@ -9,7 +9,6 @@ Burası, çeşitli açık kaynak geliştirme yaptığım ve kafamı kırdığım
 🔗 &nbsp;**Bağlantı kurmak istersen**
 <p align="left">
 <a href="https://linkedin.com/in/mert-atay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertatay" height="30" width="40" /></a>
- • <img src="https://gpvc.arturio.dev/mertatay-ce" alt="profile views">
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Hakkımda</b></summary>
