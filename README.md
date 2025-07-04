@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ce.mertatay@gmail.com**
 
-- 📄 Know about my experiences [ce.mertatay.com](ce.mertatay.com)
+- 📄 Know about my experiences [ce.mertatay.com](https://ce.mertatay.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
