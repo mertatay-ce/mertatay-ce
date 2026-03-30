@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertatay-ce&label=Profile%20views&color=0e75b6&style=flat" alt="mertatay-ce" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mertatay-ce" alt="mertatay-ce" /></a> </p>
 
 - 🔭 Currently open to new backend developer opportunities.
 
