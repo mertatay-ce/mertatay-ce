@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertatay-ce" alt="mertatay-ce" /></a> </p>
 
-- 🔭 I’m currently working on **Haratres Technology**
+- 🔭 Currently open to new backend developer opportunities.
 
-- 🌱 I’m currently learning **Spring Boot, Java.**
+- 🌱 Currently deepening my skills in microservices, distributed systems & Docker
 
 - 👨‍💻 All of my projects are available at [ce.mertatay.com](ce.mertatay.com)
 
